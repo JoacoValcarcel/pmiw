@@ -1,4 +1,6 @@
 
+//https://youtu.be/MLCrZepY5Vc
+
 let indiceActual = 0;
 let fuente, fuente2;
 let imagenes = [];
@@ -44,3 +46,4 @@ principal.ClickPantalla();
 function keyPressed() {
     juego.teclaPresionada();
 }
+
